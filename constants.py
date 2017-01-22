@@ -1,6 +1,6 @@
 # Paths
 PATH_DATA = 'data'
-PATH_UNITS_CSV = 'units.csv'
+PATH_UNITS_TYPES_CSV = 'unit_types.csv'
 
 # Races
 RACES_TERRAN = 0
